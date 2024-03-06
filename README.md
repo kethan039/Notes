@@ -21,3 +21,11 @@ To install and run this project - install dependencies using npm and then start 
 $ npm install
 $ npm start
 ```
+
+## App should look like this
+![alt text](https://github.com/kethan039/Notes/blob/main/Screenshot%202024-02-28%20214504.png)
+![alt text](https://github.com/kethan039/Notes/blob/main/Screenshot%202024-02-28%20214518.png)
+![alt text](https://github.com/kethan039/Notes/blob/main/Screenshot%202024-02-28%20214709.png)
+
+
+
